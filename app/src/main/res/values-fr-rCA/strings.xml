@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="welcome">Bienvenue au Tic Tac Toe!</string>
+    <string name="newGame">Nouvelle partie</string>
+    <string name="tie">Partie nulle!</string>
+    <string name="oWins">O gagne!</string>
+    <string name="end">La partie est terminée!</string>
+    <string name="error">Erreur</string>
+    <string name="picked">Choisissez un autre espace</string>
+</resources>

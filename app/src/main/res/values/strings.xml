@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="welcome">Welcome to Tic Tac Toe!</string>
+    <string name="newGame">New game</string>
+    <string name="tie">Tie game!</string>
+    <string name="oWins">O wins!</string>
+    <string name="end">The game is over!</string>
+    <string name="error">Error</string>
+    <string name="picked">Choose another space</string>
+</resources>
